@@ -1,5 +1,5 @@
 
-# 🌪️ Tailwind Tornado – My Styling Superpowers Unleashed 💅
+# 🌪️ Tailwind Tornado – My Styling Superpowers Unleashed 
 
 Welcome to **Tailwind Tornado** – my personalized UI framework repo where **utility-first styling meets chaos-controlled creativity**.  
 This is where I mastered the art of styling **without writing a single line of CSS** (well, almost a long time before😎) — all thanks to the **Complete Tailwind CSS Bootcamp** by 🧠 *HuXn-Webdev Sir*.
