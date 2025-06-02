@@ -8,7 +8,7 @@ This is where I mastered the art of styling **without writing a single line of C
 
 ---
 
-## 🎯 What This Repo Is About
+## 🎯 What This Repo Is About :
 
 This isn’t your average CSS styling guide — this is **Tailwind in action**.  
 From building clean UIs to testing responsive breakpoints and exploring dark mode toggles, this repo contains **real code + real understanding** of utility-first CSS.
